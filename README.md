@@ -63,7 +63,6 @@
 ### 🎥 Latest Projects
 - 🛍️ **Lokarasa** - E-commerce platform built with Laravel.
 - 📱 **Attendance App** - Face recognition based attendance system.
-- ... *(Tambahkan link proyek Anda di sini)*
 
 ---
 
