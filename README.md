@@ -12,7 +12,7 @@
 - 🎓 Student of **Information Technology**.
 - 🚀 Specialized in **Full-stack Development** and **Mobile Apps**.
 - 💬 Ask me about **Laravel**, **Flutter**, **TypeScript**, or **Database Design**.
-- 📫 Reach me at: [Isi Email/Media Sosial Anda di sini]
+- 📫 Reach me at: [ig: _rhmthh]
 
 ---
 
