@@ -12,7 +12,16 @@
 - 🎓 Student of **Information Technology**.
 - 🚀 Specialized in **Full-stack Development** and **Mobile Apps**.
 - 💬 Ask me about **Laravel**, **Flutter**, **TypeScript**, or **Database Design**.
-- 📫 Reach me at: [ig: _rhmthh]
+- 📫 Reach me at Instagram: [**@_rhmthh**](https://instagram.com/_rhmthh)
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rahmat-dkh&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Rahmat-dkh Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -54,14 +63,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahmat-dkh&show_icons=true&theme=tokyonight" alt="Rahmat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmat-dkh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahmat-dkh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahmat's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmat-dkh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🎥 Latest Projects
-- 🛍️ **Lokarasa** - E-commerce platform built with Laravel.
+- 🛍️ **[Lokarasa](https://github.com/Rahmat-dkh/lokarasa)** - E-commerce platform built with Laravel.
 - 📱 **Attendance App** - Face recognition based attendance system.
 
 ---
