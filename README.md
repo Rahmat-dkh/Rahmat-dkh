@@ -16,15 +16,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rahmat-dkh&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Rahmat-dkh Trophies" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Tech Stack & Skills
 
 <table>
@@ -61,11 +52,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Streak & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahmat-dkh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahmat's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmat-dkh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahmat-dkh&theme=tokyonight" alt="Rahmat's Streak" />
 </p>
 
 ---
