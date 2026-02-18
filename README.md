@@ -1,9 +1,14 @@
+<!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Rahmat</h1>
-<h3 align="center">💻 IT Student | Full-stack & Mobile Developer 🚀</h3>
 
 <p align="center">
-Building professional web & mobile applications <br>
-Specialized in Laravel • Flutter • TypeScript
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Mobile+App+Developer;Laravel+%7C+Flutter+%7C+TypeScript;Always+learning+new+things+🚀" />
+</p>
+
+<h3 align="center">💻 IT Student | Full-stack & Mobile Developer</h3>
+
+<p align="center">
+Building professional web & mobile applications
 </p>
 
 <p align="center">
@@ -42,7 +47,6 @@ Specialized in Laravel • Flutter • TypeScript
 📱 <b>Attendance App</b> — Face recognition attendance system
 </p>
 
----
-
+----
 <h3 align="center">✨ Turning ideas into reality with code ✨</h3>
 <p align="center">Thanks for visiting my profile 🤝</p>
