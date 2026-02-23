@@ -1,5 +1,5 @@
 <!-- ================= HERO ================= -->
-<h1 align="center">Hi 👋 I'm Rahmat</h1>
+<h1 align="center">Hi 👋 I'm Rahmat Hidayat</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Mobile+App+Developer;React+%7C+Next.js+%7C+Laravel+%7C+Flutter;UI%2FUX+Designer;Always+Learning+New+Things+%F0%9F%9A%80" />
