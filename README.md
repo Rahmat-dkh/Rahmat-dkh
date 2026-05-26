@@ -8,7 +8,7 @@
 <p align="center">
 💻 Information Technology Student <br>
 🚀 Building modern Web, Mobile & Automation Apps <br>
-📫 Instagram: <a href="https://instagram.com/rhmthh">@rhmthh</a>
+📫 Instagram: <a href="https://instagram.com/_rhmthh">@_rhmthh</a>
 </p>
 
 ---
